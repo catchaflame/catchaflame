@@ -11,9 +11,9 @@ title: "Home"
 
   <!-- Text and Title on the right -->
   <div style="flex: 2; padding-left: 20px;">
-    <h1 style="margin: 0; font-size: 32px;">[Your Name]</h1>
-    <p style="font-size: 18px; color: #333; margin-top: 10px;">[Your Position, e.g., PhD Student at University of XYZ]</p>
-    <p style="font-size: 16px; color: #555;">[Optional description or tagline]</p>
+    <h1 style="margin: 0; font-size: 32px;">Stanley Zhu</h1>
+    <p style="font-size: 18px; color: #333; margin-top: 10px;">Undergraduate student at University of Wisconsin-Madison</p>
+    <p style="font-size: 16px; color: #555;">optional description goes here...</p>
   </div>
 </div>
 
@@ -37,27 +37,34 @@ title: "Home"
      style="text-decoration: none; 
             color: white; 
             background-color: #007bff; 
-            border: 2px solid #007bff; 
+            border: 2px #007bff; 
             padding: 12px 30px; 
             border-radius: 5px; 
             font-weight: bold;">
-     Email Me
+     Email
   </a>
 
-  <!-- CV Button -->
-  <a href="assets/files/your-cv.pdf" 
+  <!-- PGP Button -->
+  <a href="files/pubkey.text" 
      style="text-decoration: none; 
             color: white; 
             background-color: #007bff; 
-            border: 2px solid #007bff; 
+            border: 2px #007bff; 
             padding: 12px 30px; 
             border-radius: 5px; 
             font-weight: bold;">
-     Download CV
+     PGP Key
   </a>
-</div>
 
-<div style="margin-top: 30px;">
-  <h3>Contact</h3>
-  <p>If you would like to get in touch, feel free to reach out to me using the buttons above!</p>
+  <!-- CV Button -->
+  <a href="files/cv.pdf" 
+     style="text-decoration: none; 
+            color: white; 
+            background-color: #007bff; 
+            border: 2px #007bff; 
+            padding: 12px 30px; 
+            border-radius: 5px; 
+            font-weight: bold;">
+     Vita
+  </a>
 </div>
