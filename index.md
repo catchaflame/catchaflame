@@ -42,9 +42,9 @@ title: "Home"
             font-weight: bold;
             position: relative;
             overflow: hidden;
-            transition: color 0.3s, background-color 0.3s;">
+            transition: color 0.3s;">
      Email
-    <span style="position: absolute; top: 0; left: -100%; right: 0; bottom: 0; background-color: #007bff; transition: left 0.3s;"></span>
+    <span style="position: absolute; top: 0; left: -100%; right: 0; bottom: 0; background-color: #007bff; transition: left 0.5s;"></span>
   </a>
 
   <!-- PGP Button -->
@@ -57,9 +57,9 @@ title: "Home"
             font-weight: bold;
             position: relative;
             overflow: hidden;
-            transition: color 0.3s, background-color 0.3s;">
+            transition: color 0.3s;">
      PGP Key
-     <span style="position: absolute; top: 0; left: -100%; right: 0; bottom: 0; background-color: #007bff; transition: left 0.3s;"></span>
+     <span style="position: absolute; top: 0; left: -100%; right: 0; bottom: 0; background-color: #007bff; transition: left 0.5s;"></span>
   </a>
 
   <!-- CV Button -->
@@ -72,10 +72,10 @@ title: "Home"
             font-weight: bold;
             position: relative;
             overflow: hidden;
-            transition: color 0.3s, background-color 0.3s;">
+            transition: color 0.3s;">
      Vita
-     <span style="position: absolute; top: 0; left: -100%; right: 0; bottom: 0; background-color: #007bff; transition: left 0.3s;"></span>
-  </a>
+<span style="position: absolute; top: 0; left: -100%; right: 0; bottom: 0; background-color: #007bff; transition: left 0.5s;"></span> 
+</a>
 </div>
 
 <style>
