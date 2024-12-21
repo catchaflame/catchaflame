@@ -1,10 +1,8 @@
 title: Stanley Zhu
 show_downloads: false
 theme: minima
+footer: false
 header_pages:
   - index.md
   - research.md
-  - cv.md
   - personal.md
-minima:
-  footer: false
