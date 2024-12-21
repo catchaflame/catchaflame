@@ -66,6 +66,12 @@ title: "Home"
 </a>
 </div>
 
+<style>
+  .footer {
+    display: none;
+  }
+</style>
+
 <!-- Custom Footer -->
 <div style="background-color: #f7f7f7; padding: 20px 0; text-align: center; margin-top: 40px; font-size: 14px; color: #333;">
   <p>&copy; 2024 Stanley Zhu. All Rights Reserved.</p>
