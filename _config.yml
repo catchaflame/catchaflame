@@ -6,3 +6,10 @@ header_pages:
   - research.md
   - cv.md
   - personal.md
+footer:
+  text: "© 2024 Stanley. All Rights Reserved."
+  links:
+    - text: "GitHub"
+      url: "https://github.com/yourusername"
+    - text: "LinkedIn"
+      url: "https://www.linkedin.com/in/your-profile"
