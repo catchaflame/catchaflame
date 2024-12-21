@@ -40,8 +40,11 @@ title: "Home"
             padding: 10px 20px; 
             border-radius: 5px; 
             font-weight: bold;
-            transition: background-color 0.3s, color 0.3s;">
+            position: relative;
+            overflow: hidden;
+            transition: color 0.3s, background-color 0.3s;">
      Email
+    <span style="position: absolute; top: 0; left: -100%; right: 0; bottom: 0; background-color: #007bff; transition: left 0.3s;"></span>
   </a>
 
   <!-- PGP Button -->
@@ -52,8 +55,11 @@ title: "Home"
             padding: 10px 20px; 
             border-radius: 5px; 
             font-weight: bold;
-            transition: background-color 0.3s, color 0.3s;">
+            position: relative;
+            overflow: hidden;
+            transition: color 0.3s, background-color 0.3s;">
      PGP Key
+     <span style="position: absolute; top: 0; left: -100%; right: 0; bottom: 0; background-color: #007bff; transition: left 0.3s;"></span>
   </a>
 
   <!-- CV Button -->
@@ -64,14 +70,20 @@ title: "Home"
             padding: 10px 20px; 
             border-radius: 5px; 
             font-weight: bold;
-            transition: background-color 0.3s, color 0.3s;">
+            position: relative;
+            overflow: hidden;
+            transition: color 0.3s, background-color 0.3s;">
      Vita
+     <span style="position: absolute; top: 0; left: -100%; right: 0; bottom: 0; background-color: #007bff; transition: left 0.3s;"></span>
   </a>
 </div>
 
 <style>
   a:hover {
-    background-color: #007bff; /* Solid blue background on hover */
-    color: white; /* Change text color to white */
+    color: white; /* Text turns white when hovering */
+  }
+
+  a:hover span {
+    left: 0; /* Move the blue background from left to right */
   }
 </style>
