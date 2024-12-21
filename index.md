@@ -5,7 +5,7 @@ title: "Home"
 
 # Welcome to My Academic Portfolio
 
-![My Photo](images/my-photo.jpg)
+![My Photo](images/my-photo.png)
 
 👋 Hi, I'm **[Your Name]**, a PhD candidate in Computer Science specializing in **[Your Specialization]**.
 
