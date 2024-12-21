@@ -68,3 +68,10 @@ title: "Home"
      Vita
   </a>
 </div>
+
+<style>
+  a:hover {
+    background-color: #007bff; /* Solid blue background on hover */
+    color: white; /* Change text color to white */
+  }
+</style>
