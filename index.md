@@ -4,15 +4,14 @@ title: "Home"
 ---
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
-  <!-- Profile Photo on the left (Larger Image) -->
   <div style="flex: 1; text-align: center;">
-    <img src="images/my-photo.jpg" alt="Your Photo" style="border-radius: 50%; width: 220px; height: 220px; border: 2px solid #ccc;"> <!-- Increased image size -->
+    <img src="images/my-photo.jpg" alt="Your Photo" style="border-radius: 50%; width: 214px; height: 214px; border: 2px solid #ccc;"> 
   </div>
 
   <!-- Text and Title on the right -->
   <div style="flex: 2; padding-left: 10px;"> <!-- Reduced padding-left -->
     <h1 style="margin: 0; font-size: 28px;">Stanley Zhu</h1> <!-- Adjusted font size -->
-    <p style="font-size: 16px; color: #333; margin-top: 5px; margin-bottom: 5px;">Undergraduate student at University of Wisconsin-Madison</p> <!-- Reduced margins -->
+    <p style="font-size: 16px; color: #333; margin-top: 3px; margin-bottom: 5px;">Undergraduate student at University of Wisconsin-Madison</p> 
     <div style="display: flex; gap: 18px; margin-top: 20px;"> <!-- Reduced gap and margin-top -->
       <!-- Email Button -->
       <a href="mailto:your-email@example.com" 
