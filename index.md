@@ -35,10 +35,9 @@ title: "Home"
   <!-- Email Button -->
   <a href="mailto:your-email@example.com" 
      style="text-decoration: none; 
-            color: white; 
-            background-color: #007bff; 
-            border: 2px #007bff; 
-            padding: 12px 30px; 
+            color: #007bff; 
+            border: 2px solid #007bff; 
+            padding: 10px 20px; 
             border-radius: 5px; 
             font-weight: bold;">
      Email
@@ -47,10 +46,9 @@ title: "Home"
   <!-- PGP Button -->
   <a href="files/pubkey.text" 
      style="text-decoration: none; 
-            color: white; 
-            background-color: #007bff; 
-            border: 2px #007bff; 
-            padding: 12px 30px; 
+            color: #007bff; 
+            border: 2px solid #007bff; 
+            padding: 10px 20px; 
             border-radius: 5px; 
             font-weight: bold;">
      PGP Key
@@ -59,10 +57,9 @@ title: "Home"
   <!-- CV Button -->
   <a href="files/cv.pdf" 
      style="text-decoration: none; 
-            color: white; 
-            background-color: #007bff; 
-            border: 2px #007bff; 
-            padding: 12px 30px; 
+            color: #007bff; 
+            border: 2px solid #007bff; 
+            padding: 10px 20px; 
             border-radius: 5px; 
             font-weight: bold;">
      Vita
