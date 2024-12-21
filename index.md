@@ -26,10 +26,6 @@ title: "Home"
   </div>
 </div>
 
-## Contact
-
-Feel free to reach out to me via the buttons below:
-
 <div style="display: flex; gap: 20px; margin-top: 20px;">
   <!-- Email Button -->
   <a href="mailto:your-email@example.com" 
