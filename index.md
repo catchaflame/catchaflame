@@ -3,16 +3,16 @@ layout: default
 title: "Home"
 ---
 
-<div style="display: flex; align-items: center; margin-bottom: 10px;"> <!-- Reduced margin-bottom -->
-  <!-- Profile Photo on the left -->
+<div style="display: flex; align-items: center; margin-bottom: 10px;">
+  <!-- Profile Photo on the left (Larger Image) -->
   <div style="flex: 1; text-align: center;">
-    <img src="images/my-photo.jpg" alt="Your Photo" style="border-radius: 50%; width: 150px; height: 150px; border: 2px solid #ccc;"> <!-- Reduced image size -->
+    <img src="images/my-photo.jpg" alt="Your Photo" style="border-radius: 50%; width: 250px; height: 250px; border: 2px solid #ccc;"> <!-- Increased image size -->
   </div>
 
   <!-- Text and Title on the right -->
   <div style="flex: 2; padding-left: 10px;"> <!-- Reduced padding-left -->
-    <h1 style="margin: 0; font-size: 28px;">Stanley Zhu</h1> <!-- Reduced font size -->
-    <p style="font-size: 16px; color: #333; margin-top: 5px; margin-bottom: 5px;">Undergraduate student at University of Wisconsin-Madison</p> <!-- Reduced margin -->
+    <h1 style="margin: 0; font-size: 28px;">Stanley Zhu</h1> <!-- Adjusted font size -->
+    <p style="font-size: 16px; color: #333; margin-top: 5px; margin-bottom: 5px;">Undergraduate student at University of Wisconsin-Madison</p> <!-- Reduced margins -->
     <div style="display: flex; gap: 15px; margin-top: 10px;"> <!-- Reduced gap and margin-top -->
       <!-- Email Button -->
       <a href="mailto:your-email@example.com" 
