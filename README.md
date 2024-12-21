@@ -1,5 +1,2 @@
-- 👋 Hi, I’m @catchaflame!
-- 👀 I’m interested in Java, SQL, Network Security, and so forth.
-- 🌱 I’m currently learning algorithms.
-- 💞️ I’m looking to collaborate on small Java projects, especially about database management.
-- 📫 You can reach me by hnszxa@outlook.com
+
+
