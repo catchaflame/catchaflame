@@ -6,7 +6,7 @@ title: "Home"
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <!-- Profile Photo on the left (Larger Image) -->
   <div style="flex: 1; text-align: center;">
-    <img src="images/my-photo.jpg" alt="Your Photo" style="border-radius: 50%; width: 200px; height: 200px; border: 2px solid #ccc;"> <!-- Increased image size -->
+    <img src="images/my-photo.jpg" alt="Your Photo" style="border-radius: 50%; width: 220px; height: 220px; border: 2px solid #ccc;"> <!-- Increased image size -->
   </div>
 
   <!-- Text and Title on the right -->
