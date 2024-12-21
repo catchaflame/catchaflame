@@ -39,7 +39,8 @@ title: "Home"
             border: 2px solid #007bff; 
             padding: 10px 20px; 
             border-radius: 5px; 
-            font-weight: bold;">
+            font-weight: bold;
+    transition: background-color 0.3s, color 0.3s;">
      Email
   </a>
 
@@ -50,7 +51,8 @@ title: "Home"
             border: 2px solid #007bff; 
             padding: 10px 20px; 
             border-radius: 5px; 
-            font-weight: bold;">
+            font-weight: bold;
+    transition: background-color 0.3s, color 0.3s;">
      PGP Key
   </a>
 
@@ -61,7 +63,8 @@ title: "Home"
             border: 2px solid #007bff; 
             padding: 10px 20px; 
             border-radius: 5px; 
-            font-weight: bold;">
+            font-weight: bold;
+    transition: background-color 0.3s, color 0.3s;">
      Vita
   </a>
 </div>
