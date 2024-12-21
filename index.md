@@ -8,7 +8,7 @@ title: "Home"
 <div style="display: flex; align-items: center; margin-top: 20px;">
   <!-- Photo on the left -->
   <div style="flex: 1; text-align: center;">
-    <img src="assets/images/my-photo.jpg" alt="Your Photo" style="border-radius: 50%; width: 200px; height: 200px; border: 2px solid #ccc;">
+    <img src="images/my-photo.jpg" alt="Your Photo" style="border-radius: 50%; width: 200px; height: 200px; border: 2px solid #ccc;">
   </div>
   <!-- Text on the right -->
   <div style="flex: 2; padding-left: 20px;">
