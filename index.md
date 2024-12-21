@@ -3,13 +3,13 @@ layout: default
 title: "Home"
 ---
 
-# Welcome to My Academic Portfolio
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
   <!-- Photo on the left -->
   <div style="flex: 1; text-align: center;">
     <img src="images/my-photo.jpg" alt="Your Photo" style="border-radius: 50%; width: 200px; height: 200px; border: 2px solid #ccc;">
   </div>
+  
   <!-- Text on the right -->
   <div style="flex: 2; padding-left: 20px;">
     <h2>About Me</h2>
@@ -26,26 +26,29 @@ title: "Home"
   </div>
 </div>
 
+
 <div style="display: flex; gap: 20px; margin-top: 20px;">
   <!-- Email Button -->
   <a href="mailto:your-email@example.com" 
      style="text-decoration: none; 
-            color: #007bff; 
+            color: white; 
+            background-color: #007bff; 
             border: 2px solid #007bff; 
             padding: 10px 20px; 
             border-radius: 5px; 
             font-weight: bold;">
-     Email
+     Email Me
   </a>
 
   <!-- CV Button -->
   <a href="assets/files/your-cv.pdf" 
      style="text-decoration: none; 
-            color: #007bff; 
+            color: white; 
+            background-color: #007bff; 
             border: 2px solid #007bff; 
             padding: 10px 20px; 
             border-radius: 5px; 
             font-weight: bold;">
-     CV
+     Download CV
   </a>
 </div>
