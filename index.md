@@ -3,50 +3,50 @@ layout: default
 title: "Home"
 ---
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
+<div style="display: flex; align-items: center; margin-bottom: 10px;"> <!-- Reduced margin-bottom -->
   <!-- Profile Photo on the left -->
   <div style="flex: 1; text-align: center;">
-    <img src="images/my-photo.jpg" alt="Your Photo" style="border-radius: 50%; width: 200px; height: 200px; border: 2px solid #ccc;">
+    <img src="images/my-photo.jpg" alt="Your Photo" style="border-radius: 50%; width: 150px; height: 150px; border: 2px solid #ccc;"> <!-- Reduced image size -->
   </div>
 
   <!-- Text and Title on the right -->
-  <div style="flex: 2; padding-left: 20px;">
-    <h1 style="margin: 0; font-size: 32px;">Stanley Zhu</h1>
-    <p style="font-size: 18px; color: #333; margin-top: 10px;">Undergraduate student at University of Wisconsin-Madison</p>
-    <div style="display: flex; gap: 20px; margin-top: 30px;">
-  <!-- Email Button -->
-  <a href="mailto:your-email@example.com" 
-     style="text-decoration: none; 
-            color: #007bff; 
-            border: 2px solid #007bff; 
-            padding: 7px 15px; 
-            border-radius: 5px; 
-            font-weight: bold;">
-     Email
-  </a>
+  <div style="flex: 2; padding-left: 10px;"> <!-- Reduced padding-left -->
+    <h1 style="margin: 0; font-size: 28px;">Stanley Zhu</h1> <!-- Reduced font size -->
+    <p style="font-size: 16px; color: #333; margin-top: 5px; margin-bottom: 5px;">Undergraduate student at University of Wisconsin-Madison</p> <!-- Reduced margin -->
+    <div style="display: flex; gap: 15px; margin-top: 10px;"> <!-- Reduced gap and margin-top -->
+      <!-- Email Button -->
+      <a href="mailto:your-email@example.com" 
+         style="text-decoration: none; 
+                color: #007bff; 
+                border: 2px solid #007bff; 
+                padding: 6px 12px; 
+                border-radius: 5px; 
+                font-weight: bold;">
+       Email
+      </a>
 
-  <!-- PGP Button -->
-  <a href="files/pubkey.txt" 
-     style="text-decoration: none; 
-            color: #007bff; 
-            border: 2px solid #007bff; 
-            padding: 7px 15px; 
-            border-radius: 5px; 
-            font-weight: bold;">
-     PGP Key
-  </a>
+      <!-- PGP Button -->
+      <a href="files/pubkey.txt" 
+         style="text-decoration: none; 
+                color: #007bff; 
+                border: 2px solid #007bff; 
+                padding: 6px 12px; 
+                border-radius: 5px; 
+                font-weight: bold;">
+       PGP Key
+      </a>
 
-  <!-- CV Button -->
-  <a href="files/cv.pdf" 
-     style="text-decoration: none; 
-            color: #007bff; 
-            border: 2px solid #007bff; 
-            padding: 7px 15px; 
-            border-radius: 5px; 
-            font-weight: bold;">
-     Vita
-</a>
-</div>
+      <!-- CV Button -->
+      <a href="files/cv.pdf" 
+         style="text-decoration: none; 
+                color: #007bff; 
+                border: 2px solid #007bff; 
+                padding: 6px 12px; 
+                border-radius: 5px; 
+                font-weight: bold;">
+       Vita
+      </a>
+    </div>
   </div>
 </div>
 
@@ -63,7 +63,6 @@ title: "Home"
     [Your Previous Organization].
   </p>
 </div>
-
 
 <!-- Custom Footer -->
 <div style="background-color: #f7f7f7; padding: 20px 0; text-align: center; margin-top: 40px; font-size: 14px; color: #333;">
