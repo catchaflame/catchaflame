@@ -11,8 +11,8 @@ title: "Home"
   <!-- Text and Title on the right -->
   <div style="flex: 2; padding-left: 10px;"> <!-- Reduced padding-left -->
     <h1 style="margin: 0; font-size: 28px;">Stanley Zhu</h1> <!-- Adjusted font size -->
-    <p style="font-size: 16px; color: #333; margin-top: 3px; margin-bottom: 5px;">Undergraduate student at University of Wisconsin-Madison</p> 
-    <div style="display: flex; gap: 18px; margin-top: 20px;"> <!-- Reduced gap and margin-top -->
+    <p style="font-size: 16px; color: #333; margin-top: 1px; margin-bottom: 5px;">Undergraduate student at University of Wisconsin-Madison</p> 
+    <div style="display: flex; gap: 18px; margin-top: 22px;"> <!-- Reduced gap and margin-top -->
       <!-- Email Button -->
       <a href="mailto:your-email@example.com" 
          style="text-decoration: none; 
