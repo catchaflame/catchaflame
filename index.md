@@ -9,10 +9,6 @@ title: "Home"
 
 👋 Hi, I'm **[Your Name]**, a PhD candidate in Computer Science specializing in **[Your Specialization]**.
 
-- [Research](research.md)
-- [CV](cv.md)
-- [Personal](personal.md)
-
 ---
 
 ## About Me
