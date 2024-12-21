@@ -6,3 +6,5 @@ header_pages:
   - research.md
   - cv.md
   - personal.md
+minima:
+  footer: false
