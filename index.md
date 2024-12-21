@@ -39,27 +39,19 @@ title: "Home"
             border: 2px solid #007bff; 
             padding: 10px 20px; 
             border-radius: 5px; 
-            font-weight: bold;
-            position: relative;
-            overflow: hidden;
-            transition: color 0.3s;">
+            font-weight: bold;">
      Email
-    <span style="position: absolute; top: 0; left: -100%; right: 0; bottom: 0; background-color: #007bff; transition: left 0.5s;"></span>
   </a>
 
   <!-- PGP Button -->
-  <a href="files/pubkey.text" 
+  <a href="files/pubkey.txt" 
      style="text-decoration: none; 
             color: #007bff; 
             border: 2px solid #007bff; 
             padding: 10px 20px; 
             border-radius: 5px; 
-            font-weight: bold;
-            position: relative;
-            overflow: hidden;
-            transition: color 0.3s;">
+            font-weight: bold;">
      PGP Key
-     <span style="position: absolute; top: 0; left: -100%; right: 0; bottom: 0; background-color: #007bff; transition: left 0.5s;"></span>
   </a>
 
   <!-- CV Button -->
@@ -69,21 +61,7 @@ title: "Home"
             border: 2px solid #007bff; 
             padding: 10px 20px; 
             border-radius: 5px; 
-            font-weight: bold;
-            position: relative;
-            overflow: hidden;
-            transition: color 0.3s;">
+            font-weight: bold;">
      Vita
-<span style="position: absolute; top: 0; left: -100%; right: 0; bottom: 0; background-color: #007bff; transition: left 0.5s;"></span> 
 </a>
 </div>
-
-<style>
-  a:hover {
-    color: white; /* Text turns white when hovering */
-  }
-
-  a:hover span {
-    left: 0; /* Move the blue background from left to right */
-  }
-</style>
