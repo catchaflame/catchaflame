@@ -40,7 +40,7 @@ title: "Home"
             padding: 10px 20px; 
             border-radius: 5px; 
             font-weight: bold;
-    transition: background-color 0.3s, color 0.3s;">
+            transition: background-color 0.3s, color 0.3s;">
      Email
   </a>
 
@@ -52,7 +52,7 @@ title: "Home"
             padding: 10px 20px; 
             border-radius: 5px; 
             font-weight: bold;
-    transition: background-color 0.3s, color 0.3s;">
+            transition: background-color 0.3s, color 0.3s;">
      PGP Key
   </a>
 
@@ -64,7 +64,7 @@ title: "Home"
             padding: 10px 20px; 
             border-radius: 5px; 
             font-weight: bold;
-    transition: background-color 0.3s, color 0.3s;">
+            transition: background-color 0.3s, color 0.3s;">
      Vita
   </a>
 </div>
