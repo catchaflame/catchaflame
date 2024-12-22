@@ -18,7 +18,7 @@ title: "Home"
          style="text-decoration: none; 
                 color: #007bff; 
                 border: 2px solid #007bff; 
-                padding: 6px 12px; 
+                padding: 5px 10px; 
                 border-radius: 5px; 
                 font-weight: bold;">
        Email
@@ -29,7 +29,7 @@ title: "Home"
          style="text-decoration: none; 
                 color: #007bff; 
                 border: 2px solid #007bff; 
-                padding: 6px 12px; 
+                padding: 5px 10px; 
                 border-radius: 5px; 
                 font-weight: bold;">
        PGP Key
@@ -40,7 +40,7 @@ title: "Home"
          style="text-decoration: none; 
                 color: #007bff; 
                 border: 2px solid #007bff; 
-                padding: 6px 12px; 
+                padding: 5px 10px; 
                 border-radius: 5px; 
                 font-weight: bold;">
        Vita
