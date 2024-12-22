@@ -2,6 +2,9 @@
 layout: default
 title: "Home"
 ---
+<head>
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+</head>
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <div style="flex: 1 1 150px; text-align: center;">
