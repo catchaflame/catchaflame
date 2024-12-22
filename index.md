@@ -5,7 +5,7 @@ title: "Home"
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <div style="flex: 1; text-align: center;">
-    <img src="images/my-photo.jpg" alt="Your Photo" style="border-radius: 50%; width: 214px; height: 214px; border: 2px solid #ccc;"> 
+    <img src="images/my-photo.jpg" alt="My Photo" style="max-width: 100%; height: auto; border-radius: 50%; border: 2px solid #ccc;"> 
   </div>
 
   <!-- Text and Title on the right -->
