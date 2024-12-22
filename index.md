@@ -25,7 +25,7 @@ title: "Home"
       </a>
 
       <!-- PGP Button -->
-      <a href="files/pbkey.txt" 
+      <a href="files/pbkey.asc" 
          style="text-decoration: none; 
                 color: #007bff; 
                 border: 2px solid #007bff; 
