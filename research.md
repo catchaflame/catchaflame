@@ -10,5 +10,5 @@ My research areas are security & privacy. Here, you’ll find details about my w
 ### Key Research Areas
 1. Human-Centric Security and Privacy
 2. Web and Network Security
-3. Online Censorship and Surveillance
+3. Censorship and Surveillance
 4. Computer Forensics and Cybercrime
