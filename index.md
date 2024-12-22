@@ -35,17 +35,6 @@ title: "Home"
        PGP Key
       </a>
 
-      <!-- Fingerprint Button -->
-      <a href="files/fgprint.txt" 
-         style="text-decoration: none; 
-                color: #007bff; 
-                border: 2px solid #007bff; 
-                padding: 6px 12px; 
-                border-radius: 5px; 
-                font-weight: bold;">
-       Fingerprint
-      </a>
-
       <!-- Vita Button -->
       <a href="files/vita.pdf" 
          style="text-decoration: none; 
