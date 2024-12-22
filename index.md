@@ -25,7 +25,7 @@ title: "Home"
       </a>
 
       <!-- PGP Button -->
-      <a href="files/pbkey.asc" 
+      <a href="files/pbkey.txt" 
          style="text-decoration: none; 
                 color: #007bff; 
                 border: 2px solid #007bff; 
@@ -36,7 +36,7 @@ title: "Home"
       </a>
 
       <!-- Vita Button -->
-      <a href="files/vita.pdf" 
+      <a href="files/vita.txt" 
          style="text-decoration: none; 
                 color: #007bff; 
                 border: 2px solid #007bff; 
