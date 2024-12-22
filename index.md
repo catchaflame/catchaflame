@@ -11,10 +11,10 @@ title: "Home"
   <!-- Text and Title on the right -->
   <div style="flex: 2; padding-left: 10px;"> <!-- Reduced padding-left -->
     <h1 style="margin: 0; font-size: 28px;">Stanley Zhu</h1> <!-- Adjusted font size -->
-    <p style="font-size: 16px; color: #333; margin-top: 1px; margin-bottom: 5px;">Undergraduate student at University of Wisconsin-Madison</p> 
+    <p style="font-size: 16px; color: #333; margin-top: 1px; margin-bottom: 5px;">Security and Privacy Researcher</p> 
     <div style="display: flex; gap: 18px; margin-top: 22px;"> <!-- Reduced gap and margin-top -->
       <!-- Email Button -->
-      <a href="mailto:your-email@example.com" 
+      <a href="mailto:xzhu3deletethis84@wisc.deletethisedu" 
          style="text-decoration: none; 
                 color: #007bff; 
                 border: 2px solid #007bff; 
@@ -25,7 +25,7 @@ title: "Home"
       </a>
 
       <!-- PGP Button -->
-      <a href="files/pubkey.txt" 
+      <a href="files/pbkey.txt" 
          style="text-decoration: none; 
                 color: #007bff; 
                 border: 2px solid #007bff; 
@@ -35,8 +35,19 @@ title: "Home"
        PGP Key
       </a>
 
-      <!-- CV Button -->
-      <a href="files/cv.pdf" 
+      <!-- Fingerprint Button -->
+      <a href="files/fgprint.txt" 
+         style="text-decoration: none; 
+                color: #007bff; 
+                border: 2px solid #007bff; 
+                padding: 6px 12px; 
+                border-radius: 5px; 
+                font-weight: bold;">
+       Fingerprint
+      </a>
+
+      <!-- Vita Button -->
+      <a href="files/vita.pdf" 
          style="text-decoration: none; 
                 color: #007bff; 
                 border: 2px solid #007bff; 
@@ -52,13 +63,7 @@ title: "Home"
 <div style="margin-top: 20px;">
   <h3>About Me</h3>
   <p>
-    I am a [Your Year, e.g., third-year] Computer Science PhD student in the [Your Research Groups or Departments] 
-    at [Your University]. I am fortunate to be advised by [Your Advisors]. My research interests include:
-    [List of Interests].
+    I have recently graduated from the University of Wisconsin-Madison with a degree in Bachelor of Science in Computer Sciences. I am passionate about researching computer security and privacy, specifically on human-centric security, web and network security, censorship and surveillance, computer forensics, and cybercrime. My research goals are devoted to promote Internet freedom, secure emerging technologies, and reduce digital inequity. Feel free to reach out if you have questions or would like to discuss collaboration opportunities!
   </p>
-  <p>
-    I completed my undergraduate degree in Computer Science at [Your Undergraduate Institution], where I worked 
-    with [Your Advisors or Mentors]. Before starting my PhD, I worked as a [Your Past Role or Job Title] at 
-    [Your Previous Organization].
-  </p>
+
 </div>
