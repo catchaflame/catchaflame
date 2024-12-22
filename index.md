@@ -14,7 +14,7 @@ title: "Home"
     <p style="font-size: 16px; color: #333; margin-top: 1px; margin-bottom: 5px;">Security and Privacy Researcher</p> 
     <div style="display: flex; gap: 18px; margin-top: 22px;"> <!-- Reduced gap and margin-top -->
       <!-- Email Button -->
-      <a href="mailto:xzhu3deletethis84@wisc.deletethisedu" 
+      <a href="mailto:xzhu3deletethis84@wisc.beforesendingedu" 
          style="text-decoration: none; 
                 color: #007bff; 
                 border: 2px solid #007bff; 
