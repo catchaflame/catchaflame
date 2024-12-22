@@ -52,7 +52,7 @@ title: "Home"
 <div style="margin-top: 30px;">
   <h3>About Me</h3>
   <p>
-    I have recently graduated from the University of Wisconsin-Madison with a degree in Bachelor of Science in Computer Sciences. I am passionate about researching computer security and privacy, specifically on human-centric security, web and network security, censorship and surveillance, computer forensics, and cybercrime. My research goals are devoted to promote Internet freedom, secure emerging technologies, and reduce digital inequity. Feel free to reach out if you have questions or would like to discuss collaboration opportunities!
+    I have recently graduated from the University of Wisconsin-Madison with a Bachelor of Science in Computer Sciences. I am passionate about researching computer security and privacy, specifically on human-centric security, web and network security, censorship and surveillance, computer forensics, and cybercrime. My research goals are devoted to promote Internet freedom, secure emerging technologies, and reduce digital inequity. Feel free to reach out if you have questions or would like to discuss collaboration opportunities!
   </p>
 
 </div>
