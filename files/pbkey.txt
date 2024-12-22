@@ -50,4 +50,5 @@ vf/9u3wl178L0Y6RxpTyFvXqMDpnxvV4iMbEFs+OxCvSI7nHCMyIGQ==
 =PP36
 -----END PGP PUBLIC KEY BLOCK-----
 
+# Please check the fingerprint before continuing!!
 # Fingerprint: 22F4 CD3F 537D 6065 1CBC  A05E 0A7E 1126 61C6 F52A
