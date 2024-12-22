@@ -25,7 +25,7 @@ title: "Home"
                 border-radius: 5px; 
                 font-weight: bold;
                 text-align:center;
-        padding: 0px;">
+        line-height: 0px;">
        Email
       </a>
 
@@ -38,7 +38,7 @@ title: "Home"
                 border-radius: 5px; 
                 font-weight: bold;
                 text-align:center;
-                padding: 0px;">
+                line-height: 0px;">
        PGP Key
       </a>
 
@@ -51,7 +51,7 @@ title: "Home"
                 border-radius: 5px; 
                 font-weight: bold;
                 text-align:center;
-                padding: 0px;">
+                line-height: 0px;">
        Vita
       </a>
     </div>
