@@ -12,22 +12,19 @@ title: "Home"
   </div>
 
   <!-- Text and Title on the right -->
-  <div style="flex: 2 1 200px; padding-left: 40px; max-width: 100%;">
-    <h1 style="margin: 0; font-size: 28px;">Stanley Zhu</h1>
+  <div style="flex: 2 1 200px; padding-left: 40px; max-width: 100%;"> <!-- Reduced padding-left -->
+    <h1 style="margin: 0; font-size: 28px;">Stanley Zhu</h1> <!-- Adjusted font size -->
     <p style="font-size: 16px; color: #333; margin-top: 1px; margin-bottom: 5px;">Security and Privacy Researcher</p> 
-    <div style="display: flex; gap: 18px; margin-top: 22px; justify-content: center; align-items: center;"> 
+    <div style="display: flex; gap: 18px; margin-top: 22px;"> <!-- Reduced gap and margin-top -->
       <!-- Email Button -->
       <a href="mailto:xzhu3deletethis84@wisc.beforesendingedu" 
          style="text-decoration: none; 
                 color: #007bff; 
                 border: 2px solid #007bff; 
-                padding: 10px 15px; 
+                padding: 5px 10px; 
                 border-radius: 5px; 
                 font-weight: bold;
-                display: flex; 
-                justify-content: center; 
-                align-items: center;
-                text-align: center;">
+                text-align:center;">
        Email
       </a>
 
@@ -36,13 +33,10 @@ title: "Home"
          style="text-decoration: none; 
                 color: #007bff; 
                 border: 2px solid #007bff; 
-                padding: 10px 15px; 
+                padding: 5px 10px; 
                 border-radius: 5px; 
                 font-weight: bold;
-                display: flex; 
-                justify-content: center; 
-                align-items: center;
-                text-align: center;">
+                text-align:center;">
        PGP Key
       </a>
 
@@ -51,13 +45,10 @@ title: "Home"
          style="text-decoration: none; 
                 color: #007bff; 
                 border: 2px solid #007bff; 
-                padding: 10px 15px; 
+                padding: 5px 10px; 
                 border-radius: 5px; 
                 font-weight: bold;
-                display: flex; 
-                justify-content: center; 
-                align-items: center;
-                text-align: center;">
+                text-align:center;">
        Vita
       </a>
     </div>
