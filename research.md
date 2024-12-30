@@ -3,7 +3,7 @@ layout: default
 title: "Research"
 ---
 
-# Research (Page Under Construction)
+# Research
 
 My research areas are security & privacy. Here, you’ll find details about my work, projects, and publications.
 
@@ -12,3 +12,5 @@ My research areas are security & privacy. Here, you’ll find details about my w
 2. Web and Network Security
 3. Censorship and Surveillance
 4. Computer Forensics and Cybercrime
+
+## (Page Under Construction...)
