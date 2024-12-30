@@ -13,4 +13,6 @@ My research areas are security & privacy. Here, you’ll find details about my w
 3. Censorship and Surveillance
 4. Computer Forensics and Cybercrime
 
-## Page under construction... Please check back later :)
+### Baking more content in the oven – feel free to grab a coffee while you wait!
+![Baking more content](https://t3.ftcdn.net/jpg/02/57/64/34/360_F_257643448_ayYhfXH3YLstAp3kOn4Bk0BHEWlorPVI.jpg)
+
