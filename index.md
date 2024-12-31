@@ -8,7 +8,7 @@ title: "Home"
 
 <div style="display: flex; align-items: center; margin-bottom: 10px;">
   <div style="flex: 1 1 150px; text-align: center;">
-    <img src="files/bs_thumbnail.png" alt="My Photo" style="max-width: 85%; height: 150px; width: 100%; object-fit: cover; border-radius: 50%; border: 2px solid #ccc;">
+    <img src="files/bs_thumbnail.png" alt="My Photo" style="max-width: 85%; height: auto; border-radius: 50%; border: 2px solid #ccc;"> 
   </div>
 
 
